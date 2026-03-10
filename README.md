@@ -3,6 +3,8 @@ Computer program in Java for Matching Cybersecurity Ontologies Using K-Means Alg
 
 DIAS, Roberto. Matching Cyber Security Ontologies through K-Means Algorithms and Deep Learning. 2025. Relatório técnico n. 001 – Universidade do Estado do Rio de Janeiro. DOI: 10.5281/zenodo.15036998.
 
+Referência no formato BibTeX:
+
 @techreport{dias2025matching,
   author      = {Roberto Dias},
   title       = {Matching Cyber Security Ontologies through K-Means Algorithms and Deep Learning},
